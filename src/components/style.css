@@ -1,0 +1,20 @@
+.bg-header {
+  background: linear-gradient(to top right, #0a1e5c, #1e3a8a, #0a1e5c);
+  color: white;
+  padding: 12px;
+  text-align: center;
+  font-size: 1.25rem;
+  font-weight: 600;
+  
+}
+.bg-heading {
+  background: linear-gradient(to top right, #0a1e5c, #1e3a8a, #0a1e5c);
+  color: white;
+  padding: 12px;
+  text-align: center;
+  font-size: 1.25rem;
+  font-weight: 600;
+  }
+ .font-bold {
+  font-weight: bold;
+}
